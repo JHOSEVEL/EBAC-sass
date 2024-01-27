@@ -38,6 +38,9 @@ header .container {
 .menu {
     display: flex;
 }
+body{
+    background-color: variaveis.$bg-color;
+}
 
 .menu li {
     font-weight: bold;
